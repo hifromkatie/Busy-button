@@ -18,11 +18,11 @@ Push Button
 10K resistor
 0.1uF Capacitor
 
+## Case:
+Printed with 3mm Red PLA on a RepRap Prusa Mendel
+
 ## Raspberry Pi:
 Raspberry Pi4 2GB
 Raspberry Pi 7" touchscreen display
 Pimoroni pibow touchscreen frame and pibow Pi4 case
 Fan shim - used, but optional
-
-## Case:
-Printed with 3mm Red PLA on a RepRap Prusa Mendel
