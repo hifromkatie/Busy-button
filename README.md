@@ -1,5 +1,7 @@
 # Busy-button
-MQTT button to show if busy or not, python for pi to display status as full screen, red for busy, green not busy
+MQTT button to show if busy or not, python for pi to display status as full screen, red for busy, green not busy.
+The button LED will display green whilst the device is connecting to Wifi, which will go out once connected.
+Once connected the LED will mirror the pi display, and show red when busy and green when not busy, this status is changed by pressing the button.
 
 This has been created for element #badass woman makers video competition.
 
