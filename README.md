@@ -5,10 +5,10 @@ Once connected the LED will mirror the pi display, and show red when busy and gr
 
 This has been created for element #badass woman makers video competition.
 
-MQTT_button.pdf   - Circuit diagram
-case_t2.scad      - Case design files for 3D printing
-code_1.ino        - Code for Adafruit HUZZAH Feather ESP8266
-mqtt-status.py    - Python for RaspberryPi, screen red when busy, green not busy
+MQTT_button.pdf         - Circuit diagram
+case_t2.scad            - Case design files for 3D printing
+Button-HUZZAH_1.ino     - Code for Adafruit HUZZAH Feather ESP8266
+mqtt-status.py          - Python for RaspberryPi, screen red when busy, green not busy
 
 Button:
 Adafruit HUZZAH Feather ESP8266
