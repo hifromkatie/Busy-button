@@ -10,7 +10,7 @@ case_t2.scad            - Case design files for 3D printing
 Button-HUZZAH_1.ino     - Code for Adafruit HUZZAH Feather ESP8266
 mqtt-status.py          - Python for RaspberryPi, screen red when busy, green not busy
 
-Button:
+## Button:
 Adafruit HUZZAH Feather ESP8266
 8mm THT Neopixel
 Push Button
@@ -18,11 +18,11 @@ Push Button
 10K resistor
 0.1uF Capacitor
 
-Raspberry Pi:
+## Raspberry Pi:
 Raspberry Pi4 2GB
 Raspberry Pi 7" touchscreen display
 Pimoroni pibow touchscreen frame and pibow Pi4 case
 Fan shim - used, but optional
 
-Case:
-Printed with 3mm Red PLA on a Reprap Mendel
+## Case:
+Printed with 3mm Red PLA on a RepRap Prusa Mendel
