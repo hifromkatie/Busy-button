@@ -7,8 +7,8 @@
 #define BLACK indicate.Color(0,0,0)
 #define GREEN indicate.Color(0,255,0)
 
-const char* ssid = "BTHub6-W7Z7";
-const char* password = "TUL63dDiVWUG";
+const char* ssid = "****";
+const char* password = "****";
 const char* mqtt_server = "192.168.0.143";
 
 const int buttonPin = 12;
